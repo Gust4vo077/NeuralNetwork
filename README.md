@@ -18,15 +18,17 @@ The field of crop research is universally recognized for its critical importance
 
 ## results 
 <div align="center"><p >
-the order of columns the accuracy, validation accuracy, loss, loss validation
+columns of graph> the accuracy, validation accuracy, loss, loss validation
 </p>
 <img src="comp.PNG" width="800"/>
   
 <p >
+
+  
 This study provides valuable insights into CNN model selection and emphasizes the importance of regularization techniques and cross-validation to ensure robust results and effective generalization in image classification tasks. Based on the presented results, an evident limitation is the difference between training accuracy and validation accuracy in some models, such as VGG16 and VGG19. Additionally, MobileNet, although having a more balanced accuracy compared to others, still exhibits a significant gap between training and validation metrics. This suggests that this dataset with transfer learning on the MobileNet algorithm may not be ideal in terms of generalization.
 </p>
 
 
 </div>
-### lincense
+## lincense
 MIT
