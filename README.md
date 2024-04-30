@@ -30,5 +30,4 @@ This study provides valuable insights into CNN model selection and emphasizes th
 
 
 </div>
-## lincense
-MIT
+
