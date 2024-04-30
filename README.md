@@ -18,7 +18,7 @@ The field of crop research is universally recognized for its critical importance
 
 ## results 
 <div align="center"><p >
-columns of graph> the accuracy, validation accuracy, loss, loss validation
+columns of graph > the model, accuracy, validation accuracy, loss, loss validation
 </p>
 <img src="comp.PNG" width="800"/>
   
